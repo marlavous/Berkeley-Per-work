@@ -1,0 +1,63 @@
+<style>
+    
+    title {
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    h3 {
+        color: red;
+    }
+
+    h4 {
+        color: blue;
+    }
+
+    h5 {
+        color: green;
+    } 
+
+    h6 {
+        font-size: 25px;
+    }
+
+    h7 {
+        font-size: 8px;
+    }
+
+    h8 {
+        text-align: center;
+    }
+
+    h9 {
+        text-decoration: bold;
+    }
+
+    h10{
+        font-family: cursive;
+    }
+    
+    h11 {
+        color: orange;
+        font-size: 24px;
+        text-decoration: bold;
+    }
+
+    p.styledFont {
+        color: green;
+    }
+
+    img.styledImage {
+        border: 5px solid gold;
+        margin: 50px;
+    }
+
+
+
+ 
+
+
+</style> 
